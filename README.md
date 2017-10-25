@@ -2,6 +2,14 @@
 
 Mira los detalles del desarrollo de este proyecto, paso a paso, en el curso [ed.team/angular](https://ed.team/angular).
 
+## Setup del entorno de desarrollo
+Necesitas instalar:
+* Git
+* Node
+* Visual Studio Code
+
+Puedes seguir la guía en mi blog para mayores detalles: [Setting up local environment to Develop Angular Applications](https://luixaviles.com/2017/08/setup-local-environment-angular-apps)
+
 ## Introducción a TypeScript
 
 Con este proyecto entenderás los fundamentos básicos de TypeScript.
