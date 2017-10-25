@@ -37,4 +37,5 @@ Necesitamos un motor JavaScript para ejecutar el resultado(Archivos `.js`) de nu
 
 ```
 node dist/tipos-basicos/tipos-basicos.js
+node dist/main.js
 ```
